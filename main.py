@@ -20,7 +20,7 @@ Guardar el valor ingresado para que en el mensaje de return aparezca exactamente
 
 # Lectura de datasets para cada funcion
 df_mes = pd.read_csv('datos/movies_ds_mes.csv')
-df_dia = pd.read_csv('datos/movies_ds_mes.csv')
+df_dia = pd.read_csv('datos/movies_ds_dia.csv')
 
 
 # Endpoints
