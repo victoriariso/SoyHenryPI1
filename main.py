@@ -41,7 +41,7 @@ def cantidad_filmaciones_dia(dia: str):
  # arg: día en idioma Español (string)
  # Devuelve: la cantidad de películas que se estrenaron en la totalidad del dataset el dia de la semana consultado  
 
- qtt_movies_day = (df_dia['day_week_spa'].values == dia, 'id').count()
+ qtt_movies_day = df_dia.loc[df_dia['day_week_spa'].values == dia, 'id'].count() 
 
  return {
       "mensaje": f"En día {dia} se estrenaron {qtt_movies_day} películas."  
