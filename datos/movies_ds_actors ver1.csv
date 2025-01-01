@@ -1,0 +1,953 @@
+movie_id,actor_id,actor_name,is_director,title,return
+862,31.0,Tom Hanks,True,Toy Story,12.4518011
+11860,3.0,Harrison Ford,False,Sabrina,0.0
+4584,7056.0,Emma Thompson,False,Sense and Sensibility,8.181818181818182
+63,287.0,Brad Pitt,False,Twelve Monkeys,5.7233898305084745
+47018,7056.0,Emma Thompson,False,Carrington,0.0
+807,287.0,Brad Pitt,False,Se7en,9.91854118181818
+11448,1243.0,Woody Allen,True,Mighty Aphrodite,0.4466666666666666
+17182,35.0,Sally Field,True,Eye for an Eye,0.0
+19760,18277.0,Sandra Bullock,False,Two If by Sea,0.0
+2086,85.0,Johnny Depp,True,Nick of Time,1.000732370443081
+688,5064.0,Meryl Streep,False,The Bridges of Madison County,7.584025708333333
+688,190.0,Clint Eastwood,True,The Bridges of Madison County,7.584025708333333
+103,1038.0,Jodie Foster,True,Taxi Driver,21.74044153846154
+43566,5064.0,Meryl Streep,False,Before and After,0.0
+9302,4135.0,Robert Redford,True,Up Close & Personal,0.0
+9737,2888.0,Will Smith,False,Bad Boys,7.442474947368421
+10474,6193.0,Leonardo DiCaprio,False,The Basketball Diaries,0.0
+568,31.0,Tom Hanks,True,Apollo 13,6.831498711538462
+11780,4431.0,Jessica Lange,False,Rob Roy,1.1284611071428572
+8839,190.0,Clint Eastwood,True,Casper,5.75856388
+8963,5292.0,Denzel Washington,True,Crimson Tide,2.969569716981132
+8512,5292.0,Denzel Washington,True,Devil in a Blue Dress,0.5978082222222222
+9886,6384.0,Keanu Reeves,True,Johnny Mnemonic,0.7630288
+1642,18277.0,Sandra Bullock,False,The Net,5.028543863636363
+36834,6193.0,Leonardo DiCaprio,False,Total Eclipse,0.0
+9560,6384.0,Keanu Reeves,True,A Walk in the Clouds,2.50062535
+1909,85.0,Johnny Depp,True,Don Juan DeMarco,0.888
+522,85.0,Johnny Depp,True,Ed Wood,0.3270809444444444
+628,287.0,Brad Pitt,False,Interview with the Vampire,3.7277434666666656
+628,500.0,Tom Cruise,False,Interview with the Vampire,3.7277434666666656
+6280,7056.0,Emma Thompson,False,Junior,0.6166666666666667
+11,3.0,Harrison Ford,False,Star Wars,70.49072790909091
+4476,287.0,Brad Pitt,False,Legends of the Fall,5.354629433333334
+28313,4431.0,Jessica Lange,False,Losing Isaiah,0.4472803529411764
+1945,1038.0,Jodie Foster,True,Nell,3.441413451612904
+12106,6193.0,Leonardo DiCaprio,False,The Quick and the Dead,0.579764375
+1587,85.0,Johnny Depp,True,What's Eating Gilbert Grape,0.9120695454545454
+1587,6193.0,Leonardo DiCaprio,False,What's Eating Gilbert Grape,0.9120695454545454
+9271,5292.0,Denzel Washington,True,Virtuosity,0.8016
+2064,18277.0,Sandra Bullock,False,While You Were Sleeping,10.709236235294116
+9331,3.0,Harrison Ford,False,Clear and Present Danger,3.482059951612903
+13,31.0,Tom Hanks,True,Forrest Gump,12.326279981818182
+13,35.0,Sally Field,True,Forrest Gump,12.326279981818182
+1689,6384.0,Keanu Reeves,True,Little Buddha,0.1388039714285714
+9359,1038.0,Jodie Foster,True,Maverick,0.0
+8987,5064.0,Meryl Streep,False,The River Wild,0.0
+1637,6384.0,Keanu Reeves,True,Speed,11.681604833333331
+1637,18277.0,Sandra Bullock,False,Speed,11.681604833333331
+57834,4431.0,Jessica Lange,False,Blue Sky,0.0
+9739,18277.0,Sandra Bullock,False,Demolition Man,2.7904520701754385
+34444,6384.0,Keanu Reeves,True,Even Cowgirls Get the Blues,0.0
+50463,287.0,Brad Pitt,False,The Favor,0.0
+37233,500.0,Tom Cruise,False,The Firm,6.434484928571429
+5503,3.0,Harrison Ford,False,The Fugitive,8.38354
+2259,5064.0,Meryl Streep,False,The House of the Spirits,0.0
+9386,190.0,Clint Eastwood,True,In the Line of Fire,4.4249292
+7984,7056.0,Emma Thompson,False,In the Name of the Father,5.0612970769230765
+31643,3.0,Harrison Ford,False,Jimmy Hollywood,0.0
+10909,287.0,Brad Pitt,False,Kalifornia,0.2661367777777778
+12121,2888.0,Will Smith,False,Made in America,0.0
+10440,1243.0,Woody Allen,True,Manhattan Murder Mystery,0.8359694814814815
+11971,6384.0,Keanu Reeves,True,Much Ado About Nothing,0.0
+11971,7056.0,Emma Thompson,False,Much Ado About Nothing,0.0
+11971,5292.0,Denzel Washington,True,Much Ado About Nothing,0.0
+788,35.0,Sally Field,True,Mrs. Doubtfire,17.6514478
+9559,190.0,Clint Eastwood,True,A Perfect World,4.504366633333333
+9800,31.0,Tom Hanks,True,Philadelphia,7.949170769230769
+9800,5292.0,Denzel Washington,True,Philadelphia,7.949170769230769
+1245,7056.0,Emma Thompson,False,The Remains of the Day,2.0206879130434783
+23210,2888.0,Will Smith,False,Six Degrees of Separation,0.0
+858,31.0,Tom Hanks,True,Sleepless in Seattle,10.847613523809525
+78,3.0,Harrison Ford,False,Blade Runner,1.1835577857142856
+319,287.0,Brad Pitt,False,True Romance,0.98252408
+32562,31.0,Tom Hanks,True,The Celluloid Closet,0.0
+274,1038.0,Jodie Foster,True,The Silence of the Lambs,14.354890631578948
+25059,35.0,Sally Field,True,Homeward Bound II: Lost in San Francisco,0.0
+10684,5292.0,Denzel Washington,True,Courage Under Fire,2.1926264782608698
+954,500.0,Tom Cruise,False,Mission: Impossible,5.7212044875
+12656,6384.0,Keanu Reeves,True,Feeling Minnesota,0.0
+922,85.0,Johnny Depp,True,Dead Man,0.0
+602,2888.0,Will Smith,False,Independence Day,10.892923573333332
+1645,18277.0,Sandra Bullock,False,A Time to Kill,3.806650175
+12123,6384.0,Keanu Reeves,True,Chain Reaction,1.20418668
+6878,35.0,Sally Field,True,Homeward Bound: The Incredible Journey,0.0
+9591,31.0,Tom Hanks,True,That Thing You Do!,0.0
+9716,1243.0,Woody Allen,True,Everyone Says I Love You,0.0
+454,6193.0,Leonardo DiCaprio,False,Romeo + Juliet,10.15853524137931
+819,287.0,Brad Pitt,False,Sleepers,3.76398375
+11561,1243.0,Woody Allen,True,Sleeper,9.1723645
+11302,1243.0,Woody Allen,True,Bananas,5.916848
+21711,4135.0,Robert Redford,True,The Candidate,0.0
+792,85.0,Johnny Depp,True,Platoon,23.0884275
+15764,5064.0,Meryl Streep,False,Sophie's Choice,2.503
+2119,500.0,Tom Cruise,False,Days of Thunder,2.632012216666667
+744,500.0,Tom Cruise,False,Top Gun,23.78870673333333
+1891,3.0,Harrison Ford,False,The Empire Strikes Back,29.91111111111111
+85,3.0,Harrison Ford,False,Raiders of the Lost Ark,21.662553944444443
+429,190.0,Clint Eastwood,True,"The Good, the Bad and the Ugly",5.0
+28,3.0,Harrison Ford,False,Apocalypse Now,2.8400120952380954
+1892,3.0,Harrison Ford,False,Return of the Jedi,17.7032457496136
+10705,7056.0,Emma Thompson,False,Henry V,0.0
+703,1243.0,Woody Allen,True,Annie Hall,9.56285625
+9277,4135.0,Robert Redford,True,The Sting,29.02115036363636
+9665,5292.0,Denzel Washington,True,Glory,1.4904647222222225
+696,1243.0,Woody Allen,True,Manhattan,0.0
+696,5064.0,Meryl Streep,False,Manhattan,0.0
+11778,5064.0,Meryl Streep,False,The Deer Hunter,3.333333333333333
+33,190.0,Clint Eastwood,True,Unforgiven,11.368389071428572
+89,3.0,Harrison Ford,False,Indiana Jones and the Last Crusade,9.878579291666666
+642,4135.0,Robert Redford,True,Butch Cassidy and the Sundance Kid,17.0514815
+6114,6384.0,Keanu Reeves,True,Dracula,5.3965673
+1598,4431.0,Jessica Lange,False,Cape Fear,5.208571428571428
+377,85.0,Johnny Depp,True,A Nightmare on Elm Street,14.169173888888889
+21539,5292.0,Denzel Washington,True,The Preacher's Wife,1.202330275
+11967,500.0,Tom Cruise,False,Young Guns,3.440511076923077
+9390,500.0,Tom Cruise,False,Jerry Maguire,5.47105184
+2322,4135.0,Robert Redford,True,Sneakers,0.0
+26949,18277.0,Sandra Bullock,False,In Love and War,0.0
+9819,5064.0,Meryl Streep,False,Marvin's Room,0.5566654347826087
+9819,6193.0,Leonardo DiCaprio,False,Marvin's Room,0.5566654347826087
+4104,85.0,Johnny Depp,True,Benny & Joon,0.0
+66,190.0,Clint Eastwood,True,Absolute Power,1.0013662
+9366,85.0,Johnny Depp,True,Donnie Brasco,1.1987142
+4477,3.0,Harrison Ford,False,The Devil's Own,1.5645283
+4477,287.0,Brad Pitt,False,The Devil's Own,1.5645283
+1639,18277.0,Sandra Bullock,False,Speed 2: Cruise Control,1.0281754125
+34941,6384.0,Keanu Reeves,True,The Last Time I Committed Suicide,0.0
+607,2888.0,Will Smith,False,Men in Black,6.548783766666666
+686,1038.0,Jodie Foster,True,Contact,1.901336988888889
+9772,3.0,Harrison Ford,False,Air Force One,3.70772245882353
+468,6384.0,Keanu Reeves,True,My Own Private Idaho,0.0
+978,287.0,Brad Pitt,False,Seven Years in Tibet,1.8779668857142853
+66588,4431.0,Jessica Lange,False,A Thousand Acres,0.0
+1813,6384.0,Keanu Reeves,True,The Devil's Advocate,2.683239649122807
+9281,3.0,Harrison Ford,False,Witness,5.72558275
+2639,1243.0,Woody Allen,True,Deconstructing Harry,0.53434205
+597,6193.0,Leonardo DiCaprio,False,Titanic,9.22517094
+547,4135.0,Robert Redford,True,The Horse Whisperer,3.11472605
+25994,7056.0,Emma Thompson,False,The Winter Guest,0.0
+9411,5292.0,Denzel Washington,True,Fallen,0.0
+17941,4431.0,Jessica Lange,False,Hush,0.0
+9313,6193.0,Leonardo DiCaprio,False,The Man in the Iron Mask,0.0
+9440,7056.0,Emma Thompson,False,Primary Colors,0.0
+9469,5292.0,Denzel Washington,True,He Got Game,0.86271412
+76330,1243.0,Woody Allen,True,Wild Man Blues,0.0
+1878,85.0,Johnny Depp,True,Fear and Loathing in Las Vegas,0.5773121621621622
+9715,18277.0,Sandra Bullock,False,Hope Floats,0.0
+6068,3.0,Harrison Ford,False,Six Days Seven Nights,2.342857142857143
+50043,4431.0,Jessica Lange,False,Cousin Bette,0.0
+12102,5064.0,Meryl Streep,False,Kramer vs. Kramer,13.2825
+606,5064.0,Meryl Streep,False,Out of Africa,4.14513564516129
+606,4135.0,Robert Redford,True,Out of Africa,4.14513564516129
+380,500.0,Tom Cruise,False,Rain Man,16.512
+11485,1243.0,Woody Allen,True,Take the Money and Run,0.0
+11284,85.0,Johnny Depp,True,Freddy's Dead: The Final Nightmare,3.170184818181818
+16084,1038.0,Jodie Foster,True,Freaky Friday,0.0
+859,6384.0,Keanu Reeves,True,Dangerous Liaisons,2.47648
+857,31.0,Tom Hanks,True,Saving Private Ryan,6.8834415571428575
+14612,1038.0,Jodie Foster,True,Candleshoe,0.0
+11974,31.0,Tom Hanks,True,The 'Burbs,2.0334444444444446
+2619,31.0,Tom Hanks,True,Splash,8.72766675
+227,500.0,Tom Cruise,False,The Outsiders,3.3697647
+87,3.0,Harrison Ford,False,Indiana Jones and the Temple of Doom,11.892857142857142
+11976,500.0,Tom Cruise,False,Legend,0.62008448
+3525,3.0,Harrison Ford,False,Working Girl,3.684772678571429
+91217,4431.0,Jessica Lange,False,Men Don't Leave,0.0
+881,500.0,Tom Cruise,False,A Few Good Men,6.08100445
+4478,4135.0,Robert Redford,True,Indecent Proposal,7.0161594473684215
+53113,5064.0,Meryl Streep,False,One True Thing,0.0
+11337,1243.0,Woody Allen,True,Stardust Memories,1.0389003
+162,85.0,Johnny Depp,True,Edward Scissorhands,2.65
+8916,1243.0,Woody Allen,True,Antz,2.86263105
+28134,1243.0,Woody Allen,True,The Impostors,0.0
+6435,18277.0,Sandra Bullock,False,Practical Magic,0.6224450266666667
+9882,5292.0,Denzel Washington,True,The Siege,1.6667558857142857
+297,287.0,Brad Pitt,False,Meet Joe Black,1.588223333333333
+5332,5064.0,Meryl Streep,False,Dancing at Lughnasa,0.0
+41817,5292.0,Denzel Washington,True,Heart Condition,0.0
+9798,2888.0,Will Smith,False,Enemy of the State,2.7849981777777777
+9466,6193.0,Leonardo DiCaprio,False,Celebrity,0.0
+10730,4431.0,Jessica Lange,False,King Kong,3.939758478260869
+31947,4431.0,Jessica Lange,False,King Kong Lives,0.471122
+10466,31.0,Tom Hanks,True,The Money Pit,5.4999651
+9837,18277.0,Sandra Bullock,False,The Prince of Egypt,3.123045542857142
+8879,190.0,Clint Eastwood,True,Pale Rider,0.0
+13818,5064.0,Meryl Streep,False,Heartburn,0.0
+29968,31.0,Tom Hanks,True,Nothing in Common,0.0
+9489,31.0,Tom Hanks,True,You've Got Mail,3.858792230769231
+11873,500.0,Tom Cruise,False,The Color of Money,3.7894189855072464
+10015,190.0,Clint Eastwood,True,Heartbreak Ridge,2.8482678
+31638,35.0,Sally Field,True,Beyond the Poseidon Adventure,0.0
+1641,18277.0,Sandra Bullock,False,Forces of Nature,1.2518424
+10354,190.0,Clint Eastwood,True,True Crime,0.0
+603,6384.0,Keanu Reeves,True,The Matrix,7.357418777777778
+9077,190.0,Clint Eastwood,True,Tarantula,0.0
+8487,2888.0,Will Smith,False,Wild Wild West,1.3064981235294115
+345,500.0,Tom Cruise,False,Eyes Wide Shut,2.4937108923076923
+11120,3.0,Harrison Ford,False,The Mosquito Coast,0.0
+48259,4431.0,Jessica Lange,False,Crimes of the Heart,0.0
+30890,1243.0,Woody Allen,True,Radio Days,0.0
+3526,4431.0,Jessica Lange,False,Frances,0.0
+41166,5064.0,Meryl Streep,False,Plenty,0.0
+2280,31.0,Tom Hanks,True,Big,8.426043
+9944,5292.0,Denzel Washington,True,The Pelican Brief,4.339290133333333
+51679,85.0,Johnny Depp,True,The Source,0.0
+11963,4135.0,Robert Redford,True,Three Days of the Condor,0.0
+2900,85.0,Johnny Depp,True,The Astronaut's Wife,0.2613145066666666
+26522,5292.0,Denzel Washington,True,A Soldier's Story,3.6368911666666666
+17887,4135.0,Robert Redford,True,Barefoot in the Park,0.0
+1049,1038.0,Jodie Foster,True,Sommersby,0.0
+42486,1038.0,Jodie Foster,True,Napoleon and Samantha,0.0
+12618,3.0,Harrison Ford,False,Random Hearts,1.16575890625
+9346,500.0,Tom Cruise,False,Risky Business,10.24867370967742
+11901,190.0,Clint Eastwood,True,High Plains Drifter,2.8545454545454545
+4929,190.0,Clint Eastwood,True,Hang 'em High,3.7777777777777777
+56235,31.0,Tom Hanks,True,Return with Honor,0.0
+391,190.0,Clint Eastwood,True,A Fistful of Dollars,72.5
+550,287.0,Brad Pitt,False,Fight Club,1.6008532222222225
+16858,4431.0,Jessica Lange,False,All That Jazz,0.0
+11562,1243.0,Woody Allen,True,Crimes and Misdemeanors,0.9607737894736842
+26149,5064.0,Meryl Streep,False,Music of the Heart,0.550347925925926
+492,287.0,Brad Pitt,False,Being John Malkovich,1.758738153846154
+9481,5292.0,Denzel Washington,True,The Bone Collector,2.075255547945205
+11498,7056.0,Emma Thompson,False,Dead Again,0.0
+11790,7056.0,Emma Thompson,False,Peter's Friends,0.0
+9264,6193.0,Leonardo DiCaprio,False,Poison Ivy,0.0
+11943,4135.0,Robert Redford,True,Jeremiah Johnson,0.0
+2668,85.0,Johnny Depp,True,Sleepy Hollow,2.06071502
+11393,4135.0,Robert Redford,True,The Natural,1.7125706785714283
+293,287.0,Brad Pitt,False,A River Runs Through It,0.0
+42087,4431.0,Jessica Lange,False,Country,0.0
+13681,35.0,Sally Field,True,Places in the Heart,0.0
+863,31.0,Tom Hanks,True,Toy Story 2,5.526298544444445
+9684,1243.0,Woody Allen,True,Sweet and Lowdown,0.0
+9586,31.0,Tom Hanks,True,The Bonfire of the Vanities,0.3338551489361702
+32331,1038.0,Jodie Foster,True,Stealing Home,0.0
+497,31.0,Tom Hanks,True,The Green Mile,4.743333333333333
+1439,1038.0,Jodie Foster,True,Anna and the King,0.0
+334,500.0,Tom Cruise,False,Magnolia,1.309508189189189
+10400,5292.0,Denzel Washington,True,The Hurricane,1.47912482
+12524,4431.0,Jessica Lange,False,Titus,0.0
+10236,4135.0,Robert Redford,True,The Way We Were,0.0
+35119,5064.0,Meryl Streep,False,A Cry in the Dark,0.4605864666666667
+1883,5292.0,Denzel Washington,True,Malcolm X,1.416762
+11287,31.0,Tom Hanks,True,A League of Their Own,2.686469625
+9869,3.0,Harrison Ford,False,Patriot Games,3.9567019333333335
+9374,5064.0,Meryl Streep,False,Death Becomes Her,2.7095027272727275
+11259,500.0,Tom Cruise,False,Far and Away,2.296397333333333
+8293,7056.0,Emma Thompson,False,Howards End,0.0
+29076,18277.0,Sandra Bullock,False,Gun Shy,0.1631839
+1907,6193.0,Leonardo DiCaprio,False,The Beach,3.601421825
+622,85.0,Johnny Depp,True,The Ninth Gate,1.536892052631579
+12186,5064.0,Meryl Streep,False,Defending Your Life,0.0
+838,3.0,Harrison Ford,False,American Graffiti,180.18018018018017
+19259,31.0,Tom Hanks,True,Volunteers,0.0
+11157,5064.0,Meryl Streep,False,She-Devil,0.0
+1541,287.0,Brad Pitt,False,Thelma & Louise,2.8350625
+41823,5292.0,Denzel Washington,True,Mo' Better Blues,1.6153593
+26170,190.0,Clint Eastwood,True,Coogan's Bluff,0.0
+34322,35.0,Sally Field,True,Murphy's Romance,2.374425
+10083,287.0,Brad Pitt,False,No Way Out,2.367301
+10747,190.0,Clint Eastwood,True,The Outlaw Josey Wales,8.594594594594595
+17339,3.0,Harrison Ford,False,Force 10 from Navarone,1.446
+12309,31.0,Tom Hanks,True,Bachelor Party,6.4059911666666665
+1552,6384.0,Keanu Reeves,True,Parenthood,0.0
+11027,4431.0,Jessica Lange,False,The Postman Always Rings Twice,0.0
+10468,18277.0,Sandra Bullock,False,28 Days,0.0
+10564,35.0,Sally Field,True,Where the Heart Is,2.2514116
+45827,1038.0,Jodie Foster,True,One Little Indian,0.0
+10569,1243.0,Woody Allen,True,Small Time Crooks,0.0
+955,500.0,Tom Cruise,False,Mission: Impossible II,4.37110484
+938,190.0,Clint Eastwood,True,For a Few Dollars More,25.0
+10648,190.0,Clint Eastwood,True,Magnum Force,0.0
+25562,35.0,Sally Field,True,Soapdish,0.0
+592,3.0,Harrison Ford,False,The Conversation,2.7625
+8348,190.0,Clint Eastwood,True,Thunderbolt and Lightfoot,0.0
+2655,3.0,Harrison Ford,False,What Lies Beneath,1.55464351
+11624,1243.0,Woody Allen,True,Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,9.008145
+11686,1243.0,Woody Allen,True,Love and Death,6.724580666666666
+5551,190.0,Clint Eastwood,True,Space Cowboys,1.9828328
+21866,190.0,Clint Eastwood,True,Bronco Billy,0.0
+11589,190.0,Clint Eastwood,True,Kelly's Heroes,1.3
+10860,35.0,Sally Field,True,Steel Magnolias,0.0
+10393,6384.0,Keanu Reeves,True,The Replacements,0.0
+10685,6384.0,Keanu Reeves,True,The Watcher,0.0
+10637,5292.0,Denzel Washington,True,Remember the Titans,4.556889433333334
+4958,2888.0,Will Smith,False,The Legend of Bagger Vance,0.4932428375
+2604,500.0,Tom Cruise,False,Born on the Fourth of July,11.500121285714286
+107,287.0,Brad Pitt,False,Snatch,8.3557872
+40820,35.0,Sally Field,True,Punchline,1.4021511333333334
+40820,31.0,Tom Hanks,True,Punchline,1.4021511333333334
+392,85.0,Johnny Depp,True,Chocolat,6.10001372
+2046,6384.0,Keanu Reeves,True,The Gift,1.2008642
+5001,85.0,Johnny Depp,True,Before Night Falls,0.0
+8358,31.0,Tom Hanks,True,Cast Away,4.773690466666666
+1493,18277.0,Sandra Bullock,False,Miss Congeniality,4.711111111111111
+12506,5292.0,Denzel Washington,True,Cry Freedom,0.0
+71881,1038.0,Jodie Foster,True,Five Corners,0.0
+32227,287.0,Brad Pitt,False,Hunk,0.0
+40962,5064.0,Meryl Streep,False,Ironweed,0.0
+13703,287.0,Brad Pitt,False,Less Than Zero,12396383.0
+34379,287.0,Brad Pitt,False,No Man's Land,0.0
+1921,6384.0,Keanu Reeves,True,Sweet November,1.6438557
+44412,1243.0,Woody Allen,True,Company Man,0.0
+6073,287.0,Brad Pitt,False,The Mexican,2.59377250877193
+35976,35.0,Sally Field,True,The End,0.0
+33676,500.0,Tom Cruise,False,Losin' It,0.1780201428571428
+31004,5292.0,Denzel Washington,True,The Mighty Quinn,0.0
+21309,6384.0,Keanu Reeves,True,River's Edge,0.0
+20309,35.0,Sally Field,True,Say It Isn't So,0.0
+4133,85.0,Johnny Depp,True,Blow,1.5713640754716982
+40842,35.0,Sally Field,True,Norma Rae,0.0
+32924,1038.0,Jodie Foster,True,Catchfire,0.0
+29572,85.0,Johnny Depp,True,The Man Who Cried,0.0
+26255,18277.0,Sandra Bullock,False,Love Potion No. 9,0.0
+22414,5064.0,Meryl Streep,False,Postcards from the Edge,1.7759819545454545
+1089,6384.0,Keanu Reeves,True,Point Break,3.48049825
+17465,6384.0,Keanu Reeves,True,Youngblood,0.0
+9576,4431.0,Jessica Lange,False,Tootsie,8.438095238095238
+644,5064.0,Meryl Streep,False,A.I. Artificial Intelligence,2.35926552
+19200,1243.0,Woody Allen,True,Shadows and Fog,0.1954093571428571
+19200,1038.0,Jodie Foster,True,Shadows and Fog,0.1954093571428571
+10868,1038.0,Jodie Foster,True,The Accused,0.0
+7520,500.0,Tom Cruise,False,Cocktail,8.57523905
+12702,6193.0,Leonardo DiCaprio,False,Critters 3,0.0
+10651,190.0,Clint Eastwood,True,The Dead Pool,0.0
+34053,4431.0,Jessica Lange,False,Everybody's All-American,0.0
+10675,3.0,Harrison Ford,False,Frantic,0.8818975
+51321,6384.0,Keanu Reeves,True,Permanent Record,0.236642375
+1648,6384.0,Keanu Reeves,True,Bill & Ted's Excellent Adventure,4.0485039
+55059,287.0,Brad Pitt,False,Happy Together,0.0
+9686,1243.0,Woody Allen,True,New York Stories,0.0
+20006,190.0,Clint Eastwood,True,Pink Cadillac,0.0
+24077,7056.0,Emma Thompson,False,The Tall Guy,0.0
+6951,31.0,Tom Hanks,True,Turner & Hooch,0.0
+11308,1038.0,Jodie Foster,True,The Hotel New Hampshire,0.0
+20391,190.0,Clint Eastwood,True,Paint Your Wagon,1.5839389
+17169,190.0,Clint Eastwood,True,Any Which Way You Can,0.0
+2779,1243.0,Woody Allen,True,The Curse of the Jade Scorpion,0.0
+206412,18277.0,Sandra Bullock,False,Lisa Picard Is Famous,0.0
+13966,7056.0,Emma Thompson,False,Maybe Baby,0.0
+20857,6384.0,Keanu Reeves,True,Hardball,1.25696028125
+2034,5292.0,Denzel Washington,True,Training Day,2.330582955555556
+12537,5064.0,Meryl Streep,False,The French Lieutenant's Woman,0.0
+11521,1038.0,Jodie Foster,True,Little Man Tate,0.0
+15393,190.0,Clint Eastwood,True,Play Misty for Me,14.620689655172416
+1644,18277.0,Sandra Bullock,False,The Vanishing,0.0
+12502,5064.0,Meryl Streep,False,Silkwood,0.0
+1623,4135.0,Robert Redford,True,Brubaker,0.0
+32027,1038.0,Jodie Foster,True,Carny,0.0
+984,190.0,Clint Eastwood,True,Dirty Harry,8.994
+9585,35.0,Sally Field,True,Not Without My Daughter,0.0
+768,85.0,Johnny Depp,True,From Hell,2.1302318571428573
+2100,4135.0,Robert Redford,True,The Last Castle,0.3839264861111111
+671,10990.0,Emma Watson,False,Harry Potter and the Philosopher's Stone,7.8118044
+1535,4135.0,Robert Redford,True,Spy Game,1.5548865217391303
+1535,287.0,Brad Pitt,False,Spy Game,1.5548865217391303
+10649,190.0,Clint Eastwood,True,The Enforcer,5.137333333333333
+17689,190.0,Clint Eastwood,True,The Gauntlet,4.802665090909091
+10650,190.0,Clint Eastwood,True,Sudden Impact,3.074667863636364
+161,287.0,Brad Pitt,False,Ocean's Eleven,5.302554705882353
+1903,500.0,Tom Cruise,False,Vanilla Sky,2.991005014705882
+1649,6384.0,Keanu Reeves,True,Bill & Ted's Bogus Journey,0.0
+8489,2888.0,Will Smith,False,Ali,0.8197553738317757
+32020,1038.0,Jodie Foster,True,Foxes,0.0
+52744,5064.0,Meryl Streep,False,Falling in Love,0.0
+8470,5292.0,Denzel Washington,True,John Q,2.8401325
+15186,287.0,Brad Pitt,False,Full Frontal,1.253223
+65262,31.0,Tom Hanks,True,He Knows You're Alone,0.0
+119617,4431.0,Jessica Lange,False,How to Beat the High Co$t of Living,0.0
+18172,500.0,Tom Cruise,False,All the Right Moves,0.0
+10627,500.0,Tom Cruise,False,Taps,2.561146642857143
+12705,35.0,Sally Field,True,Smokey and the Bandit II,0.0
+11006,35.0,Sally Field,True,Smokey and the Bandit,0.0
+4547,1038.0,Jodie Foster,True,Panic Room,4.0916128125
+17990,7056.0,Emma Thompson,False,Impromptu,0.0
+2565,31.0,Tom Hanks,True,Joe Versus the Volcano,0.0
+11892,18277.0,Sandra Bullock,False,Murder by Numbers,1.13428294
+28384,1243.0,Woody Allen,True,Husbands and Wives,0.0
+9689,1243.0,Woody Allen,True,Hollywood Ending,0.0
+15417,190.0,Clint Eastwood,True,Every Which Way But Loose,17.0
+9583,18277.0,Sandra Bullock,False,Divine Secrets of the Ya-Ya Sisterhood,0.0
+16857,1038.0,Jodie Foster,True,The Dangerous Lives of Altar Boys,0.0
+180,500.0,Tom Cruise,False,Minority Report,3.5134600588235294
+608,2888.0,Will Smith,False,Men in Black II,3.1558485928571427
+4147,31.0,Tom Hanks,True,Road to Perdition,2.262518475
+8665,3.0,Harrison Ford,False,K-19: The Widowmaker,0.35168966
+818,500.0,Tom Cruise,False,Austin Powers in Goldmember,4.7088163650793655
+9573,190.0,Clint Eastwood,True,Blood Work,0.52399034
+19429,35.0,Sally Field,True,Absence of Malice,3.39308025
+53922,5292.0,Denzel Washington,True,Carbon Copy,0.0
+19114,500.0,Tom Cruise,False,Endless Love,0.0
+12208,1243.0,Woody Allen,True,Casino Royale,3.4787265
+672,10990.0,Emma Watson,False,Harry Potter and the Chamber of Secrets,8.76688482
+9016,7056.0,Emma Thompson,False,Treasure Planet,0.7827008214285714
+2757,5064.0,Meryl Streep,False,Adaptation.,1.7263775263157894
+13435,5292.0,Denzel Washington,True,Antwone Fisher,1.86940688
+3131,6193.0,Leonardo DiCaprio,False,Gangs of New York,1.93772504
+2642,18277.0,Sandra Bullock,False,Two Weeks Notice,1.5559153
+640,6193.0,Leonardo DiCaprio,False,Catch Me If You Can,6.771429076923077
+640,31.0,Tom Hanks,True,Catch Me If You Can,6.771429076923077
+590,5064.0,Meryl Streep,False,The Hours,1.6639132
+41927,6384.0,Keanu Reeves,True,Tune in Tomorrow...,0.0
+21189,85.0,Johnny Depp,True,Lost in La Mancha,0.0
+10724,190.0,Clint Eastwood,True,Firefox,3.9270746666666665
+37917,190.0,Clint Eastwood,True,Honkytonk Man,0.0
+81001,35.0,Sally Field,True,Kiss Me Goodbye,0.0
+8288,1243.0,Woody Allen,True,A Midsummer Night's Sex Comedy,0.0
+32048,5064.0,Meryl Streep,False,Still of the Night,0.0
+16229,4431.0,Jessica Lange,False,Prozac Nation,0.0
+9930,4135.0,Robert Redford,True,Legal Eagles,0.0
+47762,1243.0,Woody Allen,True,Scenes from a Mall,3.1877976666666665
+38868,190.0,Clint Eastwood,True,A Decade Under the Influence,0.0
+604,6384.0,Keanu Reeves,True,The Matrix Reloaded,4.923998006666666
+11145,4135.0,Robert Redford,True,The Electric Horseman,0.0
+11916,190.0,Clint Eastwood,True,Two Mules for Sister Sara,0.0
+8092,6193.0,Leonardo DiCaprio,False,This Boy’s Life,0.0
+46059,4135.0,Robert Redford,True,The Hot Rock,0.0
+2263,4431.0,Jessica Lange,False,Music Box,0.0
+41791,5292.0,Denzel Washington,True,Mississippi Masala,0.0
+11375,3.0,Harrison Ford,False,Hollywood Homicide,0.68190212
+10327,35.0,Sally Field,True,"Legally Blonde 2: Red, White & Blonde",2.7758853777777777
+14411,287.0,Brad Pitt,False,Sinbad: Legend of the Seven Seas,0.4381386666666667
+22,85.0,Johnny Depp,True,Pirates of the Caribbean: The Curse of the Black Pearl,4.6786516
+8961,2888.0,Will Smith,False,Bad Boys II,2.102611969230769
+24356,4431.0,Jessica Lange,False,Masked and Anonymous,0.0
+21449,1243.0,Woody Allen,True,"What's Up, Tiger Lily?",0.0
+3101,6384.0,Keanu Reeves,True,I Love You to Death,0.0
+14881,190.0,Clint Eastwood,True,Joe Kidd,0.0
+26246,4135.0,Robert Redford,True,Incident at Oglala,0.0
+1428,85.0,Johnny Depp,True,Once Upon a Time in Mexico,3.385709724137932
+10739,1243.0,Woody Allen,True,Anything Else,0.0
+891,4135.0,Robert Redford,True,All the President's Men,8.305882352941177
+8446,1038.0,Jodie Foster,True,Bugsy Malone,0.0
+11046,190.0,Clint Eastwood,True,Where Eagles Dare,2.727272727272727
+11707,190.0,Clint Eastwood,True,Tightrope,0.0
+6723,190.0,Clint Eastwood,True,The Rookie,2.1633874
+16969,190.0,Clint Eastwood,True,City Heat,1.53395952
+28761,190.0,Clint Eastwood,True,White Hunter Black Heart,0.0
+33258,3.0,Harrison Ford,False,More American Graffiti,6.0058696
+11364,3.0,Harrison Ford,False,Regarding Henry,0.0
+2116,5292.0,Denzel Washington,True,Out of Time,1.10991126
+67809,4431.0,Jessica Lange,False,Normal,0.0
+605,6384.0,Keanu Reeves,True,The Matrix Revolutions,2.83325474
+508,7056.0,Emma Thompson,False,Love Actually,6.12329415
+5143,1243.0,Woody Allen,True,Hannah and Her Sisters,6.26313140625
+11092,3.0,Harrison Ford,False,Presumed Innocent,10.059235818181818
+20763,31.0,Tom Hanks,True,Radio Flyer,0.1329136285714285
+3681,1243.0,Woody Allen,True,What's New Pussycat?,0.0
+42045,4431.0,Jessica Lange,False,Sweet Dreams,0.0
+11610,1243.0,Woody Allen,True,"Play It Again, Sam",0.0
+10023,31.0,Tom Hanks,True,Dragnet,3.3336758
+616,500.0,Tom Cruise,False,The Last Samurai,3.26256415
+587,4431.0,Jessica Lange,False,Big Fish,1.7559865
+6964,6384.0,Keanu Reeves,True,Something's Gotta Give,3.334109225
+1792,5064.0,Meryl Streep,False,Stuck on You,0.6150603272727273
+11034,4135.0,Robert Redford,True,The Great Gatsby,4.082030769230769
+65012,4135.0,Robert Redford,True,This Property Is Condemned,0.0
+14239,287.0,Brad Pitt,False,Cool World,0.4703529666666666
+73515,1038.0,Jodie Foster,True,Mesmerized,0.0
+17736,2888.0,Will Smith,False,Where the Day Takes You,0.0
+35227,148815.0,Harrison Ford,False,Foolish Wives,0.3638181818181818
+1723,1243.0,Woody Allen,True,The Front,0.0
+31602,4135.0,Robert Redford,True,The Chase,0.0
+1586,85.0,Johnny Depp,True,Secret Window,2.322829275
+9541,2888.0,Will Smith,False,Jersey Girl,1.031382342857143
+5516,31.0,Tom Hanks,True,The Ladykillers,0.0
+9509,5292.0,Denzel Washington,True,Man on Fire,1.861338771428572
+652,287.0,Brad Pitt,False,Troy,2.842342011428572
+26976,7056.0,Emma Thompson,False,Wit,0.0
+94771,190.0,Clint Eastwood,True,One Hundred and One Nights,0.0
+94771,3.0,Harrison Ford,False,One Hundred and One Nights,0.0
+11030,1243.0,Woody Allen,True,Zelig,0.0
+5902,4135.0,Robert Redford,True,A Bridge Too Far,2.3068181818181817
+12762,1243.0,Woody Allen,True,Broadway Danny Rose,1.325062125
+27804,18277.0,Sandra Bullock,False,The Thing Called Love,0.0
+11044,85.0,Johnny Depp,True,Arizona Dream,0.0
+16214,35.0,Sally Field,True,Hooper,0.0
+10734,190.0,Clint Eastwood,True,Escape from Alcatraz,5.375
+673,10990.0,Emma Watson,False,Harry Potter and the Prisoner of Azkaban,6.075419646153846
+673,7056.0,Emma Thompson,False,Harry Potter and the Prisoner of Azkaban,6.075419646153846
+594,31.0,Tom Hanks,True,The Terminal,3.65695425
+10742,4135.0,Robert Redford,True,The Clearing,0.0
+2048,2888.0,Will Smith,False,"I, Robot",2.8936243
+5228,35.0,Sally Field,True,Stay Hungry,4.970953
+40374,190.0,Clint Eastwood,True,Breezy,0.0
+42347,5292.0,Denzel Washington,True,For Queen & Country,0.0
+14462,5292.0,Denzel Washington,True,The Manchurian Candidate,1.20132455
+14462,5064.0,Meryl Streep,False,The Manchurian Candidate,1.20132455
+1538,500.0,Tom Cruise,False,Collateral,3.350219861538461
+16153,1038.0,Jodie Foster,True,Alice Doesn't Live Here Anymore,0.0
+10905,31.0,Tom Hanks,True,The Man with One Red Shoe,0.0
+10555,2888.0,Will Smith,False,Shark Tale,4.897000253333333
+5255,31.0,Tom Hanks,True,The Polar Express,1.853792303030303
+866,85.0,Johnny Depp,True,Finding Neverland,4.67066224
+163,287.0,Brad Pitt,False,Ocean's Twelve,3.2976752727272727
+2998,3.0,Harrison Ford,False,Zabriskie Point,0.1428571428571428
+31906,190.0,Clint Eastwood,True,The Beguiled,0.0
+19740,4135.0,Robert Redford,True,The Great Waldo Pepper,0.0
+9768,85.0,Johnny Depp,True,Cry-Baby,0.7514857272727272
+22189,4135.0,Robert Redford,True,Havana,0.2310785
+48448,287.0,Brad Pitt,False,Across the Tracks,0.0
+45145,287.0,Brad Pitt,False,Johnny Suede,0.0
+36288,4431.0,Jessica Lange,False,Night and the City,0.0
+17796,6384.0,Keanu Reeves,True,Freaked,0.0
+9956,85.0,Johnny Depp,True,The Brave,0.0
+30983,31.0,Tom Hanks,True,From the Earth to the Moon,0.0
+31774,1243.0,Woody Allen,True,Picking Up the Pieces,0.0
+55931,6384.0,Keanu Reeves,True,The Animatrix,0.0
+11774,5064.0,Meryl Streep,False,Lemony Snicket's A Series of Unfortunate Events,1.4933831785714289
+2841,1038.0,Jodie Foster,True,A Very Long Engagement,0.0
+3509,6384.0,Keanu Reeves,True,A Scanner Darkly,0.8804503448275862
+70,190.0,Clint Eastwood,True,Million Dollar Baby,7.225454866666666
+118,85.0,Johnny Depp,True,Charlie and the Chocolate Factory,3.16645842
+2567,6193.0,Leonardo DiCaprio,False,The Aviator,0.8793103448275862
+8488,2888.0,Will Smith,False,Hitch,5.258577428571429
+561,6384.0,Keanu Reeves,True,Constantine,2.30884728
+42222,5064.0,Meryl Streep,False,Julia,0.0
+10040,18277.0,Sandra Bullock,False,Miss Congeniality 2: Armed and Fabulous,0.0
+19971,1038.0,Jodie Foster,True,The Little Girl Who Lives Down the Lane,0.0
+20187,190.0,Clint Eastwood,True,The Eiger Sanction,0.0
+16972,3.0,Harrison Ford,False,The Frisco Kid,1.015888804347826
+1640,18277.0,Sandra Bullock,False,Crash,15.140009384615384
+787,287.0,Brad Pitt,False,Mr. & Mrs. Smith,4.347341090909091
+14653,85.0,Johnny Depp,True,Happily Ever After,0.0
+74,500.0,Tom Cruise,False,War of the Worlds,4.482874083333333
+308,4431.0,Jessica Lange,False,Broken Flowers,4.5742101
+17824,85.0,Johnny Depp,True,Private Resort,0.0
+1546,6384.0,Keanu Reeves,True,Thumbsucker,0.0
+61675,85.0,Johnny Depp,True,L.A. Without a Map,0.0
+1947,4135.0,Robert Redford,True,An Unfinished Life,0.6206094666666667
+9315,1038.0,Jodie Foster,True,Flightplan,4.061587254545454
+3933,85.0,Johnny Depp,True,Corpse Bride,2.929876525
+24019,5064.0,Meryl Streep,False,Angels in America,0.0
+24019,7056.0,Emma Thompson,False,Angels in America,0.0
+3527,4431.0,Jessica Lange,False,Don't Come Knocking,0.0
+2313,5064.0,Meryl Streep,False,Prime,0.0
+674,10990.0,Emma Watson,False,Harry Potter and the Goblet of Fire,5.9728069066666665
+7548,85.0,Johnny Depp,True,The Libertine,0.0
+44345,1038.0,Jodie Foster,True,The Cutting Edge: The Magic of Movie Editing,0.0
+49683,4135.0,Robert Redford,True,Inside Daisy Clover,0.0
+53367,1243.0,Woody Allen,True,Charlie: The Life and Art of Charles Chaplin,0.0
+53367,85.0,Johnny Depp,True,Charlie: The Life and Art of Charles Chaplin,0.0
+11283,7056.0,Emma Thompson,False,Nanny McPhee,4.89959288
+9754,3.0,Harrison Ford,False,Firewall,1.84
+17700,85.0,Johnny Depp,True,Deep Sea 3D,0.0
+388,5292.0,Denzel Washington,True,Inside Man,4.097250088888889
+388,1038.0,Jodie Foster,True,Inside Man,4.097250088888889
+55676,190.0,Clint Eastwood,True,A Personal Journey with Martin Scorsese Through American Movies,0.0
+41263,6384.0,Keanu Reeves,True,The Brotherhood of Justice,0.0
+9526,5064.0,Meryl Streep,False,A Prairie Home Companion,0.0
+956,500.0,Tom Cruise,False,Mission: Impossible III,2.6523334133333334
+591,31.0,Tom Hanks,True,The Da Vinci Code,6.142563672
+920,31.0,Tom Hanks,True,Cars,3.849859575
+2044,6384.0,Keanu Reeves,True,The Lake House,2.870752775
+2044,18277.0,Sandra Bullock,False,The Lake House,2.870752775
+350,5064.0,Meryl Streep,False,The Devil Wears Prada,9.330031257142856
+58,85.0,Johnny Depp,True,Pirates of the Caribbean: Dead Man's Chest,5.32829906
+13508,31.0,Tom Hanks,True,Who Killed the Electric Car?,1.678874
+1164,287.0,Brad Pitt,False,Babel,5.41320728
+512,1243.0,Woody Allen,True,Scoop,7.89622525
+1262,7056.0,Emma Thompson,False,Stranger Than Fiction,1.7884408
+1402,2888.0,Will Smith,False,The Pursuit of Happyness,5.583223545454546
+9906,5064.0,Meryl Streep,False,The Ant Bully,1.10362258
+1422,6193.0,Leonardo DiCaprio,False,The Departed,3.2205261555555555
+9672,18277.0,Sandra Bullock,False,Infamous,0.0885638461538461
+7551,5292.0,Denzel Washington,True,Déjà Vu,2.407434
+1372,6193.0,Leonardo DiCaprio,False,Blood Diamond,1.70877916
+9986,4135.0,Robert Redford,True,Charlotte's Web,1.6941176470588235
+46948,5292.0,Denzel Washington,True,Power,0.0
+10462,1243.0,Woody Allen,True,Don't Drink the Water,0.0
+22473,4431.0,Jessica Lange,False,Neverwas,0.0
+68979,3.0,Harrison Ford,False,Dead Heat on a Merry-Go-Round,0.0
+9963,18277.0,Sandra Bullock,False,Premonition,4.2073416
+285,85.0,Johnny Depp,True,Pirates of the Caribbean: At World's End,3.203333333333333
+298,287.0,Brad Pitt,False,Ocean's Thirteen,3.6625014588235296
+27138,35.0,Sally Field,True,Sybil,0.0
+6022,5064.0,Meryl Streep,False,Evening,0.0
+675,10990.0,Emma Watson,False,Harry Potter and the Order of the Phoenix,6.254751586666667
+675,7056.0,Emma Thompson,False,Harry Potter and the Order of the Phoenix,6.254751586666667
+35,31.0,Tom Hanks,True,The Simpsons Movie,7.02758468
+8363,54693.0,Emma Stone,False,Superbad,6.0731613
+4413,1038.0,Jodie Foster,True,The Brave One,0.9966659857142856
+5125,5064.0,Meryl Streep,False,Rendition,0.8999516363636364
+4512,287.0,Brad Pitt,False,The Assassination of Jesse James by the Coward Robert Ford,0.4903931
+4982,5292.0,Denzel Washington,True,American Gangster,2.66465037
+4515,4135.0,Robert Redford,True,Lions for Lambs,1.8061677714285715
+4515,5064.0,Meryl Streep,False,Lions for Lambs,1.8061677714285715
+4515,500.0,Tom Cruise,False,Lions for Lambs,1.8061677714285715
+6479,2888.0,Will Smith,False,I Am Legend,3.902326733333333
+6479,7056.0,Emma Thompson,False,I Am Legend,3.902326733333333
+25740,85.0,Johnny Depp,True,"Buy the Ticket, Take the Ride",0.0
+13885,85.0,Johnny Depp,True,Sweeney Todd: The Demon Barber of Fleet Street,3.04
+6538,31.0,Tom Hanks,True,Charlie Wilson's War,1.5866721333333331
+9546,5292.0,Denzel Washington,True,Ricochet,0.0
+14047,5292.0,Denzel Washington,True,The Great Debaters,2.0150762666666666
+18893,85.0,Johnny Depp,True,Joe Strummer: The Future Is Unwritten,0.0
+33166,4135.0,Robert Redford,True,Downhill Racer,0.0
+18031,5064.0,Meryl Streep,False,Dark Matter,0.0
+10488,1038.0,Jodie Foster,True,Nim's Island,2.704766
+1266,6384.0,Keanu Reeves,True,Street Kings,3.27849345
+217,3.0,Harrison Ford,False,Indiana Jones and the Kingdom of the Crystal Skull,4.252086664864865
+8960,2888.0,Will Smith,False,Hancock,4.160195806666667
+42473,1038.0,Jodie Foster,True,Tom Sawyer,0.0
+13003,85.0,Johnny Depp,True,Gonzo: The Life and Work of Dr. Hunter S. Thompson,0.0
+11631,5064.0,Meryl Streep,False,Mamma Mia!,11.72772378846154
+12568,7056.0,Emma Thompson,False,Brideshead Revisited,0.66021455
+16700,4431.0,Jessica Lange,False,Bonneville,0.0
+7446,500.0,Tom Cruise,False,Tropic Thunder,2.0442679239130435
+12620,54693.0,Emma Stone,False,The House Bunny,2.8177176
+10186,54693.0,Emma Stone,False,The Rocker,0.5841926666666667
+4944,287.0,Brad Pitt,False,Burn After Reading,4.42486672972973
+12113,6193.0,Leonardo DiCaprio,False,Body of Lies,1.6182871142857145
+17704,5064.0,Meryl Streep,False,The Living Sea,0.0
+10200,6384.0,Keanu Reeves,True,The Day the Earth Stood Still,2.9136732375
+14359,5064.0,Meryl Streep,False,Doubt,2.5453617
+13223,190.0,Clint Eastwood,True,Gran Torino,8.180552363636364
+11321,2888.0,Will Smith,False,Seven Pounds,3.057594381818182
+4922,287.0,Brad Pitt,False,The Curious Case of Benjamin Button,2.2262138866666668
+2253,500.0,Tom Cruise,False,Valkyrie,2.670346666666666
+4148,6193.0,Leonardo DiCaprio,False,Revolutionary Road,2.1493055142857145
+16409,7056.0,Emma Thompson,False,Last Chance Harvey,0.0
+10199,10990.0,Emma Watson,False,The Tale of Despereaux,0.8479524166666667
+4832,6193.0,Leonardo DiCaprio,False,The 11th Hour,0.0
+18947,7056.0,Emma Thompson,False,The Boat That Rocked,0.72697568
+16869,287.0,Brad Pitt,False,Inglourious Basterds,4.559015
+16279,31.0,Tom Hanks,True,The Great Buck Howard,0.0
+30416,500.0,Tom Cruise,False,Stanley Kubrick: A Life in Pictures,0.0
+15577,3.0,Harrison Ford,False,Crossing Over,0.0414934
+13448,31.0,Tom Hanks,True,Angels & Demons,2.3774229266666667
+47906,5064.0,Meryl Streep,False,The Seduction of Joe Tynan,0.0
+18487,5292.0,Denzel Washington,True,The Taking of Pelham 1 2 3,1.50166126
+40509,18277.0,Sandra Bullock,False,Wrestling Ernest Hemingway,0.0
+18240,18277.0,Sandra Bullock,False,The Proposal,7.934375775
+12556,54693.0,Emma Stone,False,Ghosts of Girlfriends Past,0.0
+11322,85.0,Johnny Depp,True,Public Enemies,2.67630775
+18480,3.0,Harrison Ford,False,Brüno,0.0
+767,10990.0,Emma Watson,False,Harry Potter and the Half-Blood Prince,3.735836788
+8054,85.0,Johnny Depp,True,The Imaginarium of Doctor Parnassus,2.1450869
+37516,7056.0,Emma Thompson,False,Judas Kiss,0.0
+24803,5064.0,Meryl Streep,False,Julie & Julia,3.238512475
+19908,54693.0,Emma Stone,False,Zombieland,4.338617881355932
+24684,7056.0,Emma Thompson,False,An Education,3.479580266666667
+23706,18277.0,Sandra Bullock,False,All About Steve,2.6737028
+141640,35.0,Sally Field,True,David Copperfield,0.0
+10315,5064.0,Meryl Streep,False,Fantastic Mr. Fox,1.161775575
+4475,6384.0,Keanu Reeves,True,The Private Lives of Pippa Lee,0.0
+19851,4431.0,Jessica Lange,False,Grey Gardens,0.0
+22881,18277.0,Sandra Bullock,False,The Blind Side,10.66235548275862
+22897,5064.0,Meryl Streep,False,It's Complicated,2.577690058823529
+20504,5292.0,Denzel Washington,True,The Book of Eli,1.9638469375
+5707,31.0,Tom Hanks,True,Shooting War,0.0
+27569,3.0,Harrison Ford,False,Extraordinary Measures,0.488203
+11324,6193.0,Leonardo DiCaprio,False,Shutter Island,3.6850524375
+22805,1038.0,Jodie Foster,True,Motherhood,0.0
+12155,85.0,Johnny Depp,True,Alice in Wonderland,5.12745555
+20497,10990.0,Emma Watson,False,Ballet Shoes,0.0
+37857,6193.0,Leonardo DiCaprio,False,Don's Plum,0.0
+38579,54693.0,Emma Stone,False,Marmaduke,1.67523688
+10193,31.0,Tom Hanks,True,Toy Story 3,5.334848515
+76180,3.0,Harrison Ford,False,Empire of Dreams: The Story of the Star Wars Trilogy,0.0
+37659,85.0,Johnny Depp,True,When You're Strange,0.0
+27205,6193.0,Leonardo DiCaprio,False,Inception,5.159579775
+37834,500.0,Tom Cruise,False,Knight and Day,2.2387216324786325
+30565,287.0,Brad Pitt,False,The Hamster Factor and Other Tales of Twelve Monkeys,0.0
+35019,7056.0,Emma Thompson,False,Nanny McPhee and the Big Bang,2.6641825142857143
+39414,54693.0,Emma Stone,False,Paper Man,0.0
+148175,6384.0,Keanu Reeves,True,Young Again,0.0
+37735,54693.0,Emma Stone,False,Easy A,9.369038125
+44992,6193.0,Leonardo DiCaprio,False,Hubble 3D,0.0
+38055,287.0,Brad Pitt,False,Megamind,2.476055446153846
+44048,5292.0,Denzel Washington,True,Unstoppable,1.67805466
+38357,3.0,Harrison Ford,False,Morning Glory,1.4696295
+12444,10990.0,Emma Watson,False,Harry Potter and the Deathly Hallows: Part 1,3.817223472
+37710,85.0,Johnny Depp,True,The Tourist,2.78731369
+15302,31.0,Tom Hanks,True,The Pixar Story,0.0
+49849,3.0,Harrison Ford,False,Cowboys & Aliens,1.0725296012269938
+45485,5064.0,Meryl Streep,False,I Knew It Was You: Rediscovering John Cazale,0.0
+44896,85.0,Johnny Depp,True,Rango,1.8201822444444444
+53172,6384.0,Keanu Reeves,True,Henry's Crime,0.0170783333333333
+50780,1038.0,Jodie Foster,True,The Beaver,0.0462293333333333
+50012,1243.0,Woody Allen,True,King Lear,0.0
+1865,85.0,Johnny Depp,True,Pirates of the Caribbean: On Stranger Tides,2.7518784263157894
+8967,287.0,Brad Pitt,False,The Tree of Life,1.7085695625
+59861,31.0,Tom Hanks,True,Larry Crowne,1.2053458333333331
+295560,190.0,Clint Eastwood,True,Clint Eastwood: Out of the Shadows,0.0
+295560,5064.0,Meryl Streep,False,Clint Eastwood: Out of the Shadows,0.0
+12445,10990.0,Emma Watson,False,Harry Potter and the Deathly Hallows: Part 2,10.736
+12445,7056.0,Emma Thompson,False,Harry Potter and the Deathly Hallows: Part 2,10.736
+50646,54693.0,Emma Stone,False,"Crazy, Stupid, Love.",2.85702394
+50544,54693.0,Emma Stone,False,Friends with Benefits,4.299536142857143
+50014,54693.0,Emma Stone,False,The Help,4.97088496
+60308,287.0,Brad Pitt,False,Moneyball,2.20412432
+36236,190.0,Clint Eastwood,True,The Witches,0.0
+67273,4135.0,Robert Redford,True,Buck,0.0
+72113,1038.0,Jodie Foster,True,Carnage,1.10412276
+94623,190.0,Clint Eastwood,True,Directed by John Ford,0.0
+88794,6193.0,Leonardo DiCaprio,False,J. Edgar,2.417315142857143
+71880,85.0,Johnny Depp,True,Jack and Jill,1.894604911392405
+23514,85.0,Johnny Depp,True,The Rum Diary,0.5333333333333333
+75900,10990.0,Emma Watson,False,My Week with Marilyn,5.477765
+64685,31.0,Tom Hanks,True,Extremely Loud & Incredibly Close,1.381197025
+64685,18277.0,Sandra Bullock,False,Extremely Loud & Incredibly Close,1.381197025
+65759,287.0,Brad Pitt,False,Happy Feet Two,1.1569728153846155
+56292,500.0,Tom Cruise,False,Mission: Impossible - Ghost Protocol,4.79112675862069
+71688,5064.0,Meryl Streep,False,The Iron Lady,8.842823
+101520,190.0,Clint Eastwood,True,Reel Injun,0.0
+59961,5292.0,Denzel Washington,True,Safe House,2.4479553529411766
+72570,4431.0,Jessica Lange,False,The Vow,6.537152333333333
+26642,287.0,Brad Pitt,False,The Dark Side of the Sun,0.0
+64688,85.0,Johnny Depp,True,21 Jump Street,4.7996506666666665
+87098,35.0,Sally Field,True,The Desert of Forbidden Art,0.0
+62213,85.0,Johnny Depp,True,Dark Shadows,1.63684766
+41154,2888.0,Will Smith,False,Men in Black 3,2.773452337777778
+41154,7056.0,Emma Thompson,False,Men in Black 3,2.773452337777778
+62177,7056.0,Emma Thompson,False,Brave,2.9134227405405406
+81836,1243.0,Woody Allen,True,To Rome with Love,4.308522411764706
+80585,500.0,Tom Cruise,False,Rock of Ages,0.7922481733333333
+1930,54693.0,Emma Stone,False,The Amazing Spider-Man,3.4986784046511628
+1930,35.0,Sally Field,True,The Amazing Spider-Man,3.4986784046511628
+208988,31.0,Tom Hanks,True,The War,0.0
+16130,4135.0,Robert Redford,True,La Classe Américaine,0.0
+13676,35.0,Sally Field,True,The Little Mermaid: Ariel's Beginning,0.0
+82696,5064.0,Meryl Streep,False,Hope Springs,3.8093683666666665
+87825,190.0,Clint Eastwood,True,Trouble with the Curve,0.0
+84892,10990.0,Emma Watson,False,The Perks of Being a Wallflower,2.569230769230769
+110354,6384.0,Keanu Reeves,True,Side by Side,0.0
+83542,31.0,Tom Hanks,True,Cloud Atlas,1.2792438039215686
+64689,287.0,Brad Pitt,False,Killing Them Softly,2.5286976666666665
+87502,5292.0,Denzel Washington,True,Flight,5.21846370967742
+32694,31.0,Tom Hanks,True,The Rutles 2: Can't Buy Me Lunch,0.0
+72976,35.0,Sally Field,True,Lincoln,4.235283846153847
+75780,500.0,Tom Cruise,False,Jack Reacher,3.6390099166666654
+68718,6193.0,Leonardo DiCaprio,False,Django Unchained,4.25368238
+82682,54693.0,Emma Stone,False,Gangster Squad,1.7533483833333334
+87496,4135.0,Robert Redford,True,The Company You Keep,0.0
+87818,54693.0,Emma Stone,False,Movie 43,5.406498
+109491,7056.0,Emma Thompson,False,Beautiful Creatures,1.0008689666666666
+84330,500.0,Tom Cruise,False,Room 237,0.0
+49519,54693.0,Emma Stone,False,The Croods,4.334658725925926
+75612,500.0,Tom Cruise,False,Oblivion,2.3847381
+109410,3.0,Harrison Ford,False,42,2.375505325
+92837,5064.0,Meryl Streep,False,To the Arctic,0.0
+109414,10990.0,Emma Watson,False,This Is the End,3.9387913125
+64682,6193.0,Leonardo DiCaprio,False,The Great Gatsby,3.343242085714285
+82700,2888.0,Will Smith,False,After Earth,1.8757163615384616
+96936,10990.0,Emma Watson,False,The Bling Ring,1.2763821333333334
+72190,287.0,Brad Pitt,False,World War Z,2.659325
+68724,1038.0,Jodie Foster,True,Elysium,2.48818
+136795,18277.0,Sandra Bullock,False,The Heat,3.690097209302325
+57201,85.0,Johnny Depp,True,The Lone Ranger,0.3501565098039215
+81167,1243.0,Woody Allen,True,Woody Allen: A Documentary,0.0
+136400,5292.0,Denzel Washington,True,2 Guns,2.162957557377049
+76544,6384.0,Keanu Reeves,True,Man of Tai Chi,0.08219764
+115348,3.0,Harrison Ford,False,Paranoia,0.3938575714285714
+200063,6384.0,Keanu Reeves,True,Sunset Strip,0.0
+200063,85.0,Johnny Depp,True,Sunset Strip,0.0
+49047,18277.0,Sandra Bullock,False,Gravity,6.822787666666667
+127878,190.0,Clint Eastwood,True,Casting By,0.0
+127878,1243.0,Woody Allen,True,Casting By,0.0
+127878,4135.0,Robert Redford,True,Casting By,0.0
+109424,31.0,Tom Hanks,True,Captain Phillips,1.7272727272727273
+109091,287.0,Brad Pitt,False,The Counselor,2.84037336
+191502,1243.0,Woody Allen,True,The Unbelievers,0.0
+76203,287.0,Brad Pitt,False,12 Years a Slave,9.35
+152747,4135.0,Robert Redford,True,All Is Lost,0.6787466666666667
+80274,3.0,Harrison Ford,False,Ender's Game,1.1412471909090909
+213121,31.0,Tom Hanks,True,Toy Story of Terror!,0.0
+238407,18277.0,Sandra Bullock,False,Aningaaq,0.0
+64686,6384.0,Keanu Reeves,True,47 Ronin,0.8626427142857143
+106646,6193.0,Leonardo DiCaprio,False,The Wolf of Wall Street,3.92000694
+152737,5064.0,Meryl Streep,False,August: Osage County,2.96755748
+140823,7056.0,Emma Thompson,False,Saving Mr. Banks,3.2155594285714284
+140823,31.0,Tom Hanks,True,Saving Mr. Banks,3.2155594285714284
+186279,1243.0,Woody Allen,True,The Battle of Amfar,0.0
+109443,3.0,Harrison Ford,False,Anchorman 2: The Legend Continues,3.4729803
+109443,2888.0,Will Smith,False,Anchorman 2: The Legend Continues,3.4729803
+170039,31.0,Tom Hanks,True,Killing Lincoln,0.0
+230864,1243.0,Woody Allen,True,Marvin Hamlisch: What He Did For Love,0.0
+173467,190.0,Clint Eastwood,True,Milius,0.0
+173467,3.0,Harrison Ford,False,Milius,0.0
+4949,3.0,Harrison Ford,False,A Time for Killing,0.0
+133021,4431.0,Jessica Lange,False,A Streetcar Named Desire,0.0
+137321,2888.0,Will Smith,False,Winter's Tale,0.5133371833333333
+109404,287.0,Brad Pitt,False,8,0.0
+100402,4135.0,Robert Redford,True,Captain America: The Winter Soldier,4.204509247058824
+86834,10990.0,Emma Watson,False,Noah,2.901099784
+102382,54693.0,Emma Stone,False,The Amazing Spider-Man 2,3.52858716
+102382,35.0,Sally Field,True,The Amazing Spider-Man 2,3.52858716
+214030,1243.0,Woody Allen,True,Fading Gigolo,0.0
+157353,85.0,Johnny Depp,True,Transcendence,1.03039258
+44721,4135.0,Robert Redford,True,Little Fauss and Big Halsy,0.0
+209249,7056.0,Emma Thompson,False,The Love Punch,0.0
+137113,500.0,Tom Cruise,False,Edge of Tomorrow,2.081692449438202
+177677,500.0,Tom Cruise,False,Mission: Impossible - Rogue Nation,4.548867593333333
+163376,3.0,Harrison Ford,False,Luv,0.0
+156022,5292.0,Denzel Washington,True,The Equalizer,3.496922509090909
+194662,54693.0,Emma Stone,False,Birdman,5.734171888888889
+140456,85.0,Johnny Depp,True,For No Good Reason,0.0
+138103,3.0,Harrison Ford,False,The Expendables 3,2.2908060444444445
+229297,54693.0,Emma Stone,False,Magic in the Moonlight,3.0374619642857144
+227156,5064.0,Meryl Streep,False,The Giver,2.67921824
+124972,6384.0,Keanu Reeves,True,Generation Um...,0.0
+358199,35.0,Sally Field,True,All the Way Home,0.0
+264656,5064.0,Meryl Streep,False,The Homesman,0.2151783125
+246403,85.0,Johnny Depp,True,Tusk,0.6523946428571429
+245891,6384.0,Keanu Reeves,True,John Wick,4.43808305
+228150,287.0,Brad Pitt,False,Fury,3.114969205882353
+77887,31.0,Tom Hanks,True,Hawaiian Vacation,0.0
+82424,31.0,Tom Hanks,True,Small Fry,0.0
+61415,1243.0,Woody Allen,True,Meetin' WA,0.0
+172226,4431.0,Jessica Lange,False,In Secret,0.0
+214096,85.0,Johnny Depp,True,Lucky Them,0.0
+37641,31.0,Tom Hanks,True,Elvis Has Left the Building,0.0
+116149,234120.0,Will Smith,False,Paddington,4.712858672727273
+32624,85.0,Johnny Depp,True,When the Road Bends: Tales of a Gypsy Caravan,0.0
+224141,5064.0,Meryl Streep,False,Into the Woods,4.25804744
+224141,85.0,Johnny Depp,True,Into the Woods,4.25804744
+243684,7056.0,Emma Thompson,False,"Men, Women & Children",0.0
+228967,54693.0,Emma Stone,False,The Interview,0.2805143636363636
+130925,31.0,Tom Hanks,True,Partysaurus Rex,0.0
+256835,31.0,Tom Hanks,True,Toy Story That Time Forgot,0.0
+63472,287.0,Brad Pitt,False,His Way,0.0
+42619,4135.0,Robert Redford,True,Tell Them Willie Boy Is Here,0.0
+42703,35.0,Sally Field,True,The Way West,0.0
+140607,3.0,Harrison Ford,False,Star Wars: The Force Awakens,8.44172907755102
+166426,85.0,Johnny Depp,True,Pirates of the Caribbean: Dead Men Tell No Tales,3.453008643478261
+221144,35.0,Sally Field,True,Maybe I'll Come Home in the Spring,0.0
+27137,4431.0,Jessica Lange,False,Sybil,0.0
+284536,4431.0,Jessica Lange,False,The Gambler,1.5668452
+210860,85.0,Johnny Depp,True,Mortdecai,0.506976
+54052,18277.0,Sandra Bullock,False,Who Do I Gotta Kill?,0.0
+123235,1243.0,Woody Allen,True,Paris-Manhattan,0.0
+232572,4135.0,Robert Redford,True,A Walk in the Woods,4.498885875
+232572,7056.0,Emma Thompson,False,A Walk in the Woods,4.498885875
+318224,500.0,Tom Cruise,False,Going Clear: Scientology and the Prison of Belief,0.0
+213831,3.0,Harrison Ford,False,Drew: The Man Behind the Poster,0.0
+114155,7056.0,Emma Thompson,False,Effie Gray,0.0
+256591,2888.0,Will Smith,False,Focus,3.0731130339321355
+56379,1038.0,Jodie Foster,True,Beach House,0.0
+253639,31.0,Tom Hanks,True,And the Oscar Goes To...,0.0
+147264,1243.0,Woody Allen,True,The Outsider,0.0
+293863,3.0,Harrison Ford,False,The Age of Adaline,2.62653104
+290304,6384.0,Keanu Reeves,True,21 Years: Richard Linklater,0.0
+241257,10990.0,Emma Watson,False,Regression,0.0
+173205,5064.0,Meryl Streep,False,Girl Rising,0.0
+275601,5064.0,Meryl Streep,False,Ricki and the Flash,2.295851555555556
+321769,6384.0,Keanu Reeves,True,Deep Web,0.0
+222936,54693.0,Emma Stone,False,Aloha,0.70946
+84196,5064.0,Meryl Streep,False,A Fierce Green Fire,0.0
+84196,4135.0,Robert Redford,True,A Fierce Green Fire,0.0
+259316,85.0,Johnny Depp,True,Fantastic Beasts and Where to Find Them,4.496346288888889
+38700,2888.0,Will Smith,False,Bad Boys for Life,0.0
+74849,3.0,Harrison Ford,False,The Star Wars Holiday Special,0.0
+297761,2888.0,Will Smith,False,Suicide Squad,4.2605717371428575
+211672,18277.0,Sandra Bullock,False,Minions,15.631499486486486
+261023,85.0,Johnny Depp,True,Black Mass,1.8648655094339623
+262436,5292.0,Denzel Washington,True,Champs,0.0
+41869,5292.0,Denzel Washington,True,The George McKenna Story,0.0
+112672,190.0,Clint Eastwood,True,Ambush at Cimarron Pass,0.0
+281957,6193.0,Leonardo DiCaprio,False,The Revenant,3.947781503703704
+282984,54693.0,Emma Stone,False,Irrational Man,2.4900985454545457
+318781,10990.0,Emma Watson,False,Colonia,0.2586461428571429
+245168,5064.0,Meryl Streep,False,Suffragette,1.14303
+263472,6384.0,Keanu Reeves,True,Knock Knock,2.5366736
+10317,18277.0,Sandra Bullock,False,Our Brand Is Crisis,0.25008075
+295964,7056.0,Emma Thompson,False,Burnt,1.83033715
+314385,287.0,Brad Pitt,False,By the Sea,0.3727746
+339988,10990.0,Emma Watson,False,The Circle,1.1387691111111111
+339988,31.0,Tom Hanks,True,The Circle,1.1387691111111111
+296098,31.0,Tom Hanks,True,Bridge of Spies,4.1369587
+30933,35.0,Sally Field,True,Home for the Holidays,0.0
+4912,287.0,Brad Pitt,False,Confessions of a Dangerous Mind,1.100460166666667
+321741,2888.0,Will Smith,False,Concussion,1.4389654285714286
+293603,5064.0,Meryl Streep,False,The Roosevelts: An Intimate History,0.0
+119694,1243.0,Woody Allen,True,The Sunshine Boys,0.0
+80775,190.0,Clint Eastwood,True,Away All Boats,0.0
+300693,4135.0,Robert Redford,True,Truth,0.2647452083333333
+318846,287.0,Brad Pitt,False,The Big Short,4.762375214285714
+283596,7056.0,Emma Thompson,False,The Legend of Barney Thomson,0.0
+357681,287.0,Brad Pitt,False,Hitting the Apex,0.0
+291537,500.0,Tom Cruise,False,Winning: The Racing Life of Paul Newman,0.0
+291537,4135.0,Robert Redford,True,Winning: The Racing Life of Paul Newman,0.0
+62768,6384.0,Keanu Reeves,True,Flying,0.0
+331962,6384.0,Keanu Reeves,True,Exposed,0.0
+42588,3.0,Harrison Ford,False,Getting Straight,0.0
+150578,1243.0,Woody Allen,True,Light Keeps Me Company,0.0
+329216,6193.0,Leonardo DiCaprio,False,The Foot Shooting Party,0.0
+301365,6384.0,Keanu Reeves,True,The Neon Demon,0.1904462857142857
+320588,35.0,Sally Field,True,"Hello, My Name Is Doris",14.444999
+315664,5064.0,Meryl Streep,False,Florence Foster Jenkins,1.686308724137931
+342521,6384.0,Keanu Reeves,True,Keanu,1.3710884666666667
+290825,85.0,Johnny Depp,True,Yoga Hosers,0.0
+356325,31.0,Tom Hanks,True,Everything Is Copy,0.0
+356325,5064.0,Meryl Streep,False,Everything Is Copy,0.0
+57656,3.0,Harrison Ford,False,Dangerous Days: Making Blade Runner,0.0
+34036,7056.0,Emma Thompson,False,Imagining Argentina,0.0
+357125,31.0,Tom Hanks,True,The Sixties,0.0
+39764,1243.0,Woody Allen,True,Glass: A Portrait of Philip in Twelve Parts,0.0
+270010,31.0,Tom Hanks,True,A Hologram for the King,0.1404164666666666
+241259,85.0,Johnny Depp,True,Alice Through the Looking Glass,1.7610004941176471
+87061,31.0,Tom Hanks,True,The Extraordinary Voyage,0.0
+339397,1243.0,Woody Allen,True,Café Society,1.4587749
+341012,54693.0,Emma Stone,False,Popstar: Never Stop Never Stopping,0.0
+324314,190.0,Clint Eastwood,True,Tab Hunter Confidential,0.0
+294272,4135.0,Robert Redford,True,Pete's Dragon,2.210697507692308
+130134,190.0,Clint Eastwood,True,Lafayette Escadrille,0.0
+363676,31.0,Tom Hanks,True,Sully,3.97450055
+292277,3.0,Harrison Ford,False,Living in the Age of Airplanes,0.0
+382079,85.0,Johnny Depp,True,Donald Trump's The Art of the Deal: The Movie,0.0
+333484,5292.0,Denzel Washington,True,The Magnificent Seven,1.8040070666666668
+95610,7056.0,Emma Thompson,False,Bridget Jones's Baby,6.055783428571429
+331583,6384.0,Keanu Reeves,True,The Whole Truth,0.0
+21799,287.0,Brad Pitt,False,Cutting Class,0.0
+409536,4431.0,Jessica Lange,False,Horace and Pete,0.0
+313369,54693.0,Emma Stone,False,La La Land,14.847856666666669
+369885,287.0,Brad Pitt,False,Allied,1.4061179176470588
+207932,31.0,Tom Hanks,True,Inferno,2.9336167866666667
+418772,1243.0,Woody Allen,True,Crisis in Six Scenes,0.0
+406992,4431.0,Jessica Lange,False,Wild Oats,0.0
+343611,500.0,Tom Cruise,False,Jack Reacher: Never Go Back,2.7024346
+410718,6193.0,Leonardo DiCaprio,False,Before the Flood,0.0
+259910,4135.0,Robert Redford,True,Marvel Studios: Assembling a Universe,0.0
+345920,2888.0,Will Smith,False,Collateral Beauty,2.4282228055555555
+393457,5292.0,Denzel Washington,True,Fences,2.683948375
+334522,7056.0,Emma Thompson,False,Alone in Berlin,0.0
+324552,6384.0,Keanu Reeves,True,John Wick: Chapter 2,4.288497175
+321612,10990.0,Emma Watson,False,Beauty and the Beast,7.89303960625
+321612,7056.0,Emma Thompson,False,Beauty and the Beast,7.89303960625
+33712,4135.0,Robert Redford,True,Trudell,0.0
+401104,6384.0,Keanu Reeves,True,To the Bone,0.0
+44303,5064.0,Meryl Streep,False,Higglety Pigglety Pop! or There Must Be More to Life,0.0
+140465,31.0,Tom Hanks,True,Prohibition,0.0
+376134,4135.0,Robert Redford,True,The Discovery,0.0
+305642,31.0,Tom Hanks,True,Ithaca,0.0
+410205,4135.0,Robert Redford,True,"All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",0.0
+331214,31.0,Tom Hanks,True,Band of Brothers,0.0
+282035,500.0,Tom Cruise,False,The Mummy,3.262224104
+413782,6384.0,Keanu Reeves,True,Mifune: The Last Samurai,0.0
+40761,190.0,Clint Eastwood,True,Revenge of the Creature,0.0
+38966,6384.0,Keanu Reeves,True,The Night Before,0.0
+14543,6384.0,Keanu Reeves,True,The Matrix Revisited,0.0
+10917,287.0,Brad Pitt,False,Too Young to Die?,0.0
+18221,500.0,Tom Cruise,False,Space Station 3D,0.0
+24914,6384.0,Keanu Reeves,True,Kid's Story,0.0
+316154,6384.0,Keanu Reeves,True,The Bad Batch,0.0
+396398,7056.0,Emma Thompson,False,The Meyerowitz Stories,0.0
+354287,287.0,Brad Pitt,False,War Machine,0.0
+411012,5292.0,Denzel Washington,True,Chasing Trane,0.0
+449758,5064.0,Meryl Streep,False,Five Came Back,0.0
+58462,18277.0,Sandra Bullock,False,Loverboy,0.0
+245394,7056.0,Emma Thompson,False,Fry and Laurie Reunited,0.0
