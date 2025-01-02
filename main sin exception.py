@@ -91,28 +91,18 @@ def score_titulo(titulo: str):
 
  # Incluye todas las peliculas del dataset movies luego de eliminar los duplicados
 
- try:
+ # busca en el dataset la pelicula cuyo titulo se ingresó
+ titulo_datos = df_score.loc[df_score['title'].str.lower() == titulo.lower(), ['release_year', 'popularity']]
 
-   # busca en el dataset la pelicula cuyo titulo se ingresó
-   titulo_datos = df_score.loc[df_score['title'].str.lower() == titulo.lower(), ['release_year', 'popularity']]
+ # guarda el año y la popularidad de la pelicula elegida para mostrarlo en el mensaje
+ # si pongo directamente el valor de la columna titulo_datos['release_year'].values[0], por ejemplo, no funciona
+ tit_year = titulo_datos['release_year'].values[0]
+ tit_pop = titulo_datos['popularity'].values[0]
 
-   # guarda el año y la popularidad de la pelicula elegida para mostrarlo en el mensaje
-   # si pongo directamente el valor de la columna titulo_datos['release_year'].values[0], por ejemplo, no funciona
-   tit_year = titulo_datos['release_year'].values[0]
-   tit_pop = titulo_datos['popularity'].values[0]
-   
-   msg = {
+ 
+ return {
       "mensaje": f"La película {titulo} se estrenó en el año {tit_year} con un score/popularidad de {tit_pop}." 
   }
-
- # si no encuentra la pelicula dispara un IndexError 
- except IndexError:
-    
-    msg = {
-      "mensaje": f"La película {titulo} no está en el dataset provisto." 
-  }
- 
- return msg
 
 
 @app.get('/votos_titulo/{titulo}')
@@ -134,9 +124,7 @@ def votos_titulo(titulo: str):
 
  # Incluye todas las peliculas del dataset movies luego de eliminar los duplicados
 
- try:
-
-  # busca en el dataset la pelicula cuyo titulo se ingresó
+ # busca en el dataset la pelicula cuyo titulo se ingresó
   titulo_datos = df_votos.loc[df_votos['title'].str.lower() == titulo.lower(), ['release_year', 'vote_average', 'vote_count']]
   
   # guarda el año de estreno, la cant de votos y el promedio de votos de la pelicula elegida para mostrarlo en el mensaje
@@ -155,12 +143,7 @@ def votos_titulo(titulo: str):
       "mensaje": f"La película {titulo} tiene menos de 2000 valoraciones. No se devuelve ningun valor." 
   }
   
-  # si no encuentra la pelicula dispara un IndexError 
- except IndexError:
-    msg = {
-      "mensaje": f"La película {titulo} no está en el dataset provisto." 
-  }
- return msg
+  return msg
 
 
 @app.get('/get_actor/{nombre_actor}')
@@ -186,18 +169,17 @@ def get_actor(nombre_actor: str):
  #                   'Tom Cruise', 'Tom Hanks', 'Will Smith', 'Woody Allen']
  
  # guardo en minusculas el nombre del actor ingresado por si ingresa mezcla de mayusculas y minusculas
- actor_low = nombre_actor.lower()
+  actor_low = nombre_actor.lower()
 
- try:
-  # consulto si el actor es tambien director en alguna pelicula 
-  # df_actors.loc['is_director'].values[0] sera True
+ # consulto si el actor es tambien director en alguna pelicula 
+ # df_actors.loc['is_director'].values[0] sera True
   actor_director  = df_actors.loc[df_actors['actor_name'].str.lower() == actor_low, 'is_director'].values[0]
 
   # si fue director en alguna pelicula aviso y no muestra los datos
   if actor_director:
     msg = {
       "mensaje": f"El actor {nombre_actor} fue también director de alguna película - No se muestran datos." 
-   }
+  }
     
   else:
     
@@ -212,15 +194,8 @@ def get_actor(nombre_actor: str):
     msg = {
        "mensaje": f"El actor {nombre_actor} ha participado de {ret_count} películas, consiguió un retorno de {ret_sum} con un promedio de {ret_avg} por película." 
     }
-
- # si no encuentra la pelicula dispara un IndexError 
- except IndexError:
- 
-   msg = {
-    "mensaje":  f"El actor {nombre_actor} no está en el dataset provisto. Los actores incluidos son: Harrison Ford, Emma Thompson, Brad Pitt, Sandra Bullock, Meryl Streep, Will Smith, Leonardo DiCaprio, Jessica Lange ,Tom Cruise, Emma Watson, Emma Stone y los actores/directores: Tom Hanks, Woody Allen, Sally Field, Johnny Depp, Clint Eastwood, Jodie Foster, Robert Redford, Denzel Washington, Keanu Reeves"
-   }
     
- return msg
+  return msg
 
 
 @app.get('/get_director/{nombre_director}')
@@ -251,23 +226,13 @@ def get_director( nombre_director: str):
  # selecciono las columnas que hay que mostrar
  movies_ds = df_one_dir[['title', 'release_date', 'budget', 'revenue', 'return']].copy()
 
- # si no encuentra peliculas significa que el director no esta incluido en el dataset que usa
- if len(movies_ds) > 0:
-  
-  # suma el retorno de las peliculas que dirigio el director seleccionado
-  ret_sum = df_one_dir['return'].sum() 
+ # suma el retorno de las peliculas que dirigio el director seleccionado
+ ret_sum = df_one_dir['return'].sum() 
 
-  msg = {'El director': nombre_director,
+ msg = {'El director': nombre_director,
        'consiguió un retorno de': ret_sum,
        'Participó en las películas': movies_ds.to_dict(orient="records")
-  }
-
- else:
-  
-   msg = {
-     "mensaje":  f"El director' {nombre_director} no está en el dataset provisto. Los directores incluidos son: Francis Ford Coppola, James Cameron, Joel Coen, Martin Scorsese, Quentin Tarantino, Stanley Kubrick, Steven Spielberg, Wes Anderson, Woody Allen, Clint Eastwood, Sofia Coppola, Natalie Portman, Jodie Foster, Martin Scorsese, Alfred Hitchcock, Greta Gerwig, Niki Caro"
-    }
- 
+ }
 
  return msg
 
