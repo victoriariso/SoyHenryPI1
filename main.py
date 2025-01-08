@@ -317,14 +317,14 @@ def recomendacion( titulo: str):
  # Convierte el resultado en un df
  result_df = pd.DataFrame(result)
 
- # ordena los valores de similitud en orden ascendente
+ # ordena los valores de similitud en orden descendente
  final_df = result_df.sort_values(by=['Cos_Sim'], ascending=False)
 
  # selecciona los 5 valores mas similares y los convierte para poder mostrar (correccion sugerida por chatGPT)
  # lista = final_df.head(5).values.tolist()
  lista = final_df.head(5).to_dict(orient='records') 
  
- msg = {'Las 5 peliculas cuyo titulo es mas similar a': titulo,
+ msg = {'Las 5 películas cuyo título es más similar a': titulo,
        'son': lista
  }
 
